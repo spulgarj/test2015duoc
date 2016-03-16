@@ -6,6 +6,7 @@
     </head>
     <body>
         <?php
+        /* Hola Mundo!!!!!*/
         // put your code here
         ?>
     </body>
